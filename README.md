@@ -45,11 +45,12 @@ Conclusiones, insights estratégicos y recomendaciones.
 
 ## Recomendaciones Estratégicas
 
-- Incentivar contratos anuales o bianuales.
-- Implementar campañas de fidelización para nuevos clientes.
-- Promover métodos de pago automáticos.
-- Priorizar el soporte técnico y los servicios complementarios.
-- Usar estos insights como base para un modelo de predicción de churn.
+En función de los resultados obtenidos, se recomienda:
+-Implementar estrategias orientadas a reducir el abandono de clientes, priorizando la fidelización de aquellos con menor antigüedad, quienes presentan mayor riesgo de cancelación.
+-Establecer un programa de bienvenida con acompañamiento personalizado durante los primeros meses, ofreciendo incentivos y beneficios exclusivos que fortalezcan la permanencia.
+-Revisar la estructura de los planes con cargos mensuales más altos, de modo que el cliente perciba un mayor valor en el servicio, ya sea a través de descuentos progresivos, promociones o la inclusión de servicios adicionales que justifiquen el costo.
+-Promover la contratación de servicios complementarios contribuirá a incrementar el compromiso y satisfacción del cliente, reduciendo la probabilidad de abandono. 
+-Implementar un sistema de monitoreo para identificar clientes en riesgo y brindarles alternativas personalizadas que aseguren su continuidad.
 
 ## Cómo usar este proyecto
 
